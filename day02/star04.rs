@@ -1,7 +1,6 @@
 use std::fs;
 use std::cmp::max;
 
-#[derive(Debug)]
 struct Bag {
     red: u32,
     green: u32,
