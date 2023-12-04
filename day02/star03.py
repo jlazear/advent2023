@@ -7,12 +7,7 @@ def parse_line(line):
         color = draws[2*i+1].strip(',;')
         if n_ball > balls_max[color]:
             return 0
-    n = int(n_game.strip(':'))
-    return n
+    return int(n_game.strip(':'))
 
-s = 0
 with open('input.txt') as f:
-    for line in f:
-        s += parse_line(line)
-
-print(s)
+    print(sum((parse_line(line) for line in f)))
