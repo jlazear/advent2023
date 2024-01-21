@@ -1,0 +1,65 @@
+[package]
+name = "advent2023"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "star01"
+path = "day01/star01.rs"
+
+[[bin]]
+name = "star02"
+path = "day01/star02.rs"
+
+[[bin]]
+name = "star03"
+path = "day02/star03.rs"
+
+[[bin]]
+name = "star04"
+path = "day02/star04.rs"
+
+[[bin]]
+name = "star05"
+path = "day03/star05.rs"
+
+[[bin]]
+name = "star06"
+path = "day03/star06.rs"
+
+[[bin]]
+name = "star07"
+path = "day04/star07.rs"
+
+[[bin]]
+name = "star08"
+path = "day04/star08.rs"
+
+[[bin]]
+name = "star09"
+path = "day05/star09.rs"
+
+[[bin]]
+name = "star10"
+path = "day05/star10.rs"
+
+[[bin]]
+name = "star11"
+path = "day06/star11.rs"
+
+[[bin]]
+name = "star12"
+path = "day06/star12.rs"
+
+[[bin]]
+name = "star13"
+path = "day07/star13.rs"
+
+[[bin]]
+name = "star14"
+path = "day07/star14.rs"
+
