@@ -64,3 +64,59 @@ path = "day07/star13.rs"
 name = "star14"
 path = "day07/star14.rs"
 
+[[bin]]
+name = "star15"
+path = "day08/star15.rs"
+
+[[bin]]
+name = "star16"
+path = "day08/star16.rs"
+
+[[bin]]
+name = "star17"
+path = "day09/star17.rs"
+
+[[bin]]
+name = "star18"
+path = "day09/star18.rs"
+
+[[bin]]
+name = "star19"
+path = "day10/star19.rs"
+
+[[bin]]
+name = "star20"
+path = "day10/star20.rs"
+
+[[bin]]
+name = "star21"
+path = "day11/star21.rs"
+
+[[bin]]
+name = "star22"
+path = "day11/star22.rs"
+
+[[bin]]
+name = "star23"
+path = "day12/star23.rs"
+
+[[bin]]
+name = "star24"
+path = "day12/star24.rs"
+
+[[bin]]
+name = "star25"
+path = "day13/star25.rs"
+
+[[bin]]
+name = "star26"
+path = "day13/star26.rs"
+
+[[bin]]
+name = "star27"
+path = "day14/star27.rs"
+
+[[bin]]
+name = "star28"
+path = "day14/star28.rs"
+
